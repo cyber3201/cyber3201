@@ -27,13 +27,6 @@ I'm **Zakaria Gbibar**, a final-year student in **Information Systems & Digital 
 
 Currently serving as **Digital Operations Manager** at Holistic Health Academy — coordinating digital infrastructure, automating communication pipelines, and shipping production-grade web systems.
 
-```yaml
-focus:      [ Web Development, AI Automation, Digital Transformation ]
-learning:   [ Machine Learning, Advanced AI Agents, Cloud Architecture ]
-looking_for: Final-year internship in web dev & intelligent automation
-available:  true
-```
-
 ---
 
 ## 🛠️ Tech Stack
