@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-### `< Digital Engineer · AI Automation · Web Developer />`
+### `< IT GEEK · AI Automation · Web Developer />`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaryagbibar/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbibarzaka00@gmail.com)
@@ -135,16 +135,6 @@ Web platform with admin dashboard — CRUD for courses & registrations, form han
     → Field monitoring of a mega maritime project (3.2km bridge, 950m dock)
     → Project reporting: data entry, structuring & analysis for project steering
 ```
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 🎓 Licence — Information Systems & Digital Transformation | FST Settat | 2025–2026 |
-| 📘 DEUST — Mathematics, Computer Science & Physics | FST Settat | 2022–2025 |
-| 🏫 Baccalauréat — Physical Sciences *(Mention Bien)* | Lycée Hassan II, Bouizakarne | 2022 |
 
 ---
 
