@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗ █████╗
-╚══███╔╝██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██║██╔══██╗
-  ███╔╝ ███████║█████╔╝ ███████║██████╔╝██║███████║
- ███╔╝  ██╔══██║██╔═██╗ ██╔══██║██╔══██╗██║██╔══██║
-███████╗██║  ██║██║  ██╗██║  ██║██║  ██║██║██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+██╗████████╗    ██████╗ ███████╗███████╗██╗  ██╗
+██║╚══██╔══╝   ██╔════╝ ██╔════╝██╔════╝██║ ██╔╝
+██║   ██║      ██║  ███╗█████╗  █████╗  █████╔╝ 
+██║   ██║      ██║   ██║██╔══╝  ██╔══╝  ██╔═██╗ 
+██║   ██║      ╚██████╔╝███████╗███████╗██║  ██╗
+╚═╝   ╚═╝       ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-### `< IT GEEK · AI Automation · Web Developer />`
+### `< Data analytics · AI Automation · Web Developer />`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaryagbibar/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbibarzaka00@gmail.com)
