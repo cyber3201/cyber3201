@@ -86,7 +86,6 @@ Learning platform for SQL, data & business with an integrated practice environme
 
 **Live:** [thedatasphere.netlify.app](https://thedatasphere.netlify.app)
 
-`React 18` `TypeScript` `Vite` `React Router` `Tailwind CSS`
 
 </td>
 </tr>
