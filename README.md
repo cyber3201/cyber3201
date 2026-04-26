@@ -56,10 +56,8 @@
 
 <div align="center">
 
-### 💡 *"Engineering intelligent digital experiences — one platform at a time."*
+### 💡 *"Engineering intelligent digital experiences"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zakariagbibar&color=0e75b6&style=flat-square&label=Profile+Views)
-
-**📬 Open to internship opportunities · [gbibarzaka00@gmail.com](mailto:gbibarzaka00@gmail.com)**
 
 </div>
