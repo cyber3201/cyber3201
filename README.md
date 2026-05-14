@@ -54,7 +54,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-<div align="center">
+<div align="left">
 
 ### 💡 *"Engineering intelligent digital experiences"*
 
