@@ -18,10 +18,12 @@
 </div>
 
 ---
+<div align="center">
 
 > *Building digital platforms where AI meets elegant code.*
 
 ---
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +56,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-<div align="left">
+<div align="center">
 
 ### 💡 *"Engineering intelligent digital experiences"*
 
