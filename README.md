@@ -1,9 +1,4 @@
-</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zakariagbibar&color=0e75b6&style=flat-square&label=Profile+Views)
-
-</div>
-<div align="center">
 
 ```
      ██╗████████╗    ██████╗ ███████╗███████╗██╗  ██╗      ███████╗ █████╗  ██████╗██╗  ██╗
@@ -21,6 +16,13 @@
 [![Location](https://img.shields.io/badge/Morocco-FF0000?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
+
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=zakariagbibar&color=0e75b6&style=flat-square&label=Profile+Views)
+
+</div>
+<div align="center">
 
 ---
 <div align="center">
