@@ -17,12 +17,7 @@
 
 </div>
 
-</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zakariagbibar&color=0e75b6&style=flat-square&label=Profile+Views)
-
-</div>
-<div align="center">
 
 ---
 <div align="center">
@@ -30,4 +25,9 @@
 > *Building digital platforms where AI meets elegant code.*
 
 ---
+</div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=zakariagbibar&color=0e75b6&style=flat-square&label=Profile+Views)
+
+</div>
+<div align="center">
